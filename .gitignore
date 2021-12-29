@@ -1,5 +1,6 @@
 *.pyc
 *.log
 *.bak
+*.cfg
 django_project/Lib
 django_project/Scripts
