@@ -1,0 +1,5 @@
+*.pyc
+*.log
+*.bak
+django_project/Lib
+django_project/Scripts
